@@ -1,0 +1,3 @@
+https://secure-login-example.com/path
+http://goog1e-secure-login.com/reset
+https://www.openai.com/research
