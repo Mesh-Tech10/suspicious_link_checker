@@ -64,6 +64,3 @@ Hash scanning for file-based malware detection
 Integration with threat intelligence feeds (MISP, AbuseIPDB)
 
 Author - Meshwa Patel
-🐙 GitHub: [your repo link]
-
-👉 This project is part of my Cybersecurity Portfolio, showcasing hands-on knowledge in networking, threat detection, threat intelligence, and incident response.
